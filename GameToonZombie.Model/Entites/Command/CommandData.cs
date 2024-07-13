@@ -8,8 +8,8 @@ namespace GameToonZombie.Model.Entites.Command
 {
     public class CommandData
     {
-        public CommandAttack Attack { get; set; }
-        public CommandBuild Build { get; set; }
+        public List<CommandAttack> Attack { get; set; }
+        public List<CommandBuild> Build { get; set; }
         public CommandMoveBase MoveBase { get; set; }
     }
 }

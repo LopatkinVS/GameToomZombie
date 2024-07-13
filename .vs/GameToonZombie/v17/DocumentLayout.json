@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F6A2B4F-71A8-452B-9A7C-77AFF78725E1}|GameToonZombie\\GameToonZombie.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F6A2B4F-71A8-452B-9A7C-77AFF78725E1}|GameToonZombie\\GameToonZombie.csproj|solutionrelative:gametoonzombie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A21489CA-3FD7-4E01-8E1E-4EDB50240AFD}|GameToonZombie\\GameToonZombie.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21489CA-3FD7-4E01-8E1E-4EDB50240AFD}|GameToonZombie\\GameToonZombie.csproj|solutionrelative:gametoonzombie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.model\\entites\\command\\commanddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|solutionrelative:gametoonzombie.model\\entites\\command\\commanddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{893A0910-D991-489F-9C0F-A6806B251755}|GameToonZombie.Data\\GameToonZombie.Data.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.data\\request\\postrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893A0910-D991-489F-9C0F-A6806B251755}|GameToonZombie.Data\\GameToonZombie.Data.csproj|solutionrelative:gametoonzombie.data\\request\\postrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.model\\entites\\command\\commandattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|solutionrelative:gametoonzombie.model\\entites\\command\\commandattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{893A0910-D991-489F-9C0F-A6806B251755}|GameToonZombie.Data\\GameToonZombie.Data.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.data\\algorithm\\buildinthirstmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893A0910-D991-489F-9C0F-A6806B251755}|GameToonZombie.Data\\GameToonZombie.Data.csproj|solutionrelative:gametoonzombie.data\\algorithm\\buildinthirstmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{893A0910-D991-489F-9C0F-A6806B251755}|GameToonZombie.Data\\GameToonZombie.Data.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.data\\algorithm\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,28 +23,36 @@
       "RelativeMoniker": "D:0:0:{893A0910-D991-489F-9C0F-A6806B251755}|GameToonZombie.Data\\GameToonZombie.Data.csproj|solutionrelative:gametoonzombie.data\\algorithm\\findnearestzombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.model\\entites\\worldstsate\\baseblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|solutionrelative:gametoonzombie.model\\entites\\worldstsate\\baseblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.model\\entites\\worldstsate\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|solutionrelative:gametoonzombie.model\\entites\\worldstsate\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{893A0910-D991-489F-9C0F-A6806B251755}|GameToonZombie.Data\\GameToonZombie.Data.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.data\\algorithm\\countrangeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{893A0910-D991-489F-9C0F-A6806B251755}|GameToonZombie.Data\\GameToonZombie.Data.csproj|solutionrelative:gametoonzombie.data\\algorithm\\countrangeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.model\\entites\\worldstsate\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|solutionrelative:gametoonzombie.model\\entites\\worldstsate\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{893A0910-D991-489F-9C0F-A6806B251755}|GameToonZombie.Data\\GameToonZombie.Data.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.data\\request\\getrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{893A0910-D991-489F-9C0F-A6806B251755}|GameToonZombie.Data\\GameToonZombie.Data.csproj|solutionrelative:gametoonzombie.data\\request\\getrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.model\\entites\\worldstsate\\baseblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|solutionrelative:gametoonzombie.model\\entites\\worldstsate\\baseblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.model\\entites\\worldstsate\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|solutionrelative:gametoonzombie.model\\entites\\worldstsate\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.model\\entites\\worldstsate\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|solutionrelative:gametoonzombie.model\\entites\\worldstsate\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{893A0910-D991-489F-9C0F-A6806B251755}|GameToonZombie.Data\\GameToonZombie.Data.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.data\\request\\getrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893A0910-D991-489F-9C0F-A6806B251755}|GameToonZombie.Data\\GameToonZombie.Data.csproj|solutionrelative:gametoonzombie.data\\request\\getrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21489CA-3FD7-4E01-8E1E-4EDB50240AFD}|GameToonZombie\\GameToonZombie.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie\\gametoonzombie.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A21489CA-3FD7-4E01-8E1E-4EDB50240AFD}|GameToonZombie\\GameToonZombie.csproj|solutionrelative:gametoonzombie\\gametoonzombie.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.model\\entites\\command\\commanddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|solutionrelative:gametoonzombie.model\\entites\\command\\commanddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.model\\entites\\command\\commandattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|solutionrelative:gametoonzombie.model\\entites\\command\\commandattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.model\\entites\\worldstsate\\lastattacl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.model\\entites\\command\\commanbuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE5EE9A-4758-4725-A4D0-F0BCA8E817CA}|GameToonZombie.Model\\GameToonZombie.Model.csproj|solutionrelative:gametoonzombie.model\\entites\\command\\commanbuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{893A0910-D991-489F-9C0F-A6806B251755}|GameToonZombie.Data\\GameToonZombie.Data.csproj|c:\\users\\thebr\\source\\repos\\gametoonzombie\\gametoonzombie.data\\request\\postrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{893A0910-D991-489F-9C0F-A6806B251755}|GameToonZombie.Data\\GameToonZombie.Data.csproj|solutionrelative:gametoonzombie.data\\request\\postrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,41 +94,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Attack.cs",
-              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Algorithm\\Attack.cs",
-              "RelativeDocumentMoniker": "GameToonZombie.Data\\Algorithm\\Attack.cs",
-              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Algorithm\\Attack.cs",
-              "RelativeToolTip": "GameToonZombie.Data\\Algorithm\\Attack.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "BuildInThirstMove.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Algorithm\\BuildInThirstMove.cs",
+              "RelativeDocumentMoniker": "GameToonZombie.Data\\Algorithm\\BuildInThirstMove.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Algorithm\\BuildInThirstMove.cs",
+              "RelativeToolTip": "GameToonZombie.Data\\Algorithm\\BuildInThirstMove.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwBMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T05:27:54.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FindNearestZombie.cs",
-              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Algorithm\\FindNearestZombie.cs",
-              "RelativeDocumentMoniker": "GameToonZombie.Data\\Algorithm\\FindNearestZombie.cs",
-              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Algorithm\\FindNearestZombie.cs",
-              "RelativeToolTip": "GameToonZombie.Data\\Algorithm\\FindNearestZombie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T04:58:17.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CountRangeAttack.cs",
-              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Algorithm\\CountRangeAttack.cs",
-              "RelativeDocumentMoniker": "GameToonZombie.Data\\Algorithm\\CountRangeAttack.cs",
-              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Algorithm\\CountRangeAttack.cs",
-              "RelativeToolTip": "GameToonZombie.Data\\Algorithm\\CountRangeAttack.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T04:48:51.864Z",
+              "WhenOpened": "2024-07-13T07:14:10.543Z",
               "EditorCaption": ""
             },
             {
@@ -135,52 +113,130 @@
               "RelativeDocumentMoniker": "GameToonZombie\\Program.cs",
               "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie\\Program.cs",
               "RelativeToolTip": "GameToonZombie\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAARAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwC0AAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T04:21:24.978Z",
+              "WhenOpened": "2024-07-13T06:59:18.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PostRequest.cs",
-              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Request\\PostRequest.cs",
-              "RelativeDocumentMoniker": "GameToonZombie.Data\\Request\\PostRequest.cs",
-              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Request\\PostRequest.cs",
-              "RelativeToolTip": "GameToonZombie.Data\\Request\\PostRequest.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABQAAAAhAAAA",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\Player.cs",
+              "RelativeDocumentMoniker": "GameToonZombie.Model\\Entites\\WorldStsate\\Player.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\Player.cs",
+              "RelativeToolTip": "GameToonZombie.Model\\Entites\\WorldStsate\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T04:19:54.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetRequest.cs",
-              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Request\\GetRequest.cs",
-              "RelativeDocumentMoniker": "GameToonZombie.Data\\Request\\GetRequest.cs",
-              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Request\\GetRequest.cs",
-              "RelativeToolTip": "GameToonZombie.Data\\Request\\GetRequest.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T04:17:59.834Z",
+              "WhenOpened": "2024-07-13T04:13:58.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\GameState.cs",
+              "RelativeDocumentMoniker": "GameToonZombie.Model\\Entites\\WorldStsate\\GameState.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\GameState.cs",
+              "RelativeToolTip": "GameToonZombie.Model\\Entites\\WorldStsate\\GameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:14:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\Zombie.cs",
+              "RelativeDocumentMoniker": "GameToonZombie.Model\\Entites\\WorldStsate\\Zombie.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\Zombie.cs",
+              "RelativeToolTip": "GameToonZombie.Model\\Entites\\WorldStsate\\Zombie.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:14:13.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "BaseBlock.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\BaseBlock.cs",
               "RelativeDocumentMoniker": "GameToonZombie.Model\\Entites\\WorldStsate\\BaseBlock.cs",
               "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\BaseBlock.cs",
               "RelativeToolTip": "GameToonZombie.Model\\Entites\\WorldStsate\\BaseBlock.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA5wAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T04:13:29.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
+              "Title": "FindNearestZombie.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Algorithm\\FindNearestZombie.cs",
+              "RelativeDocumentMoniker": "GameToonZombie.Data\\Algorithm\\FindNearestZombie.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Algorithm\\FindNearestZombie.cs",
+              "RelativeToolTip": "GameToonZombie.Data\\Algorithm\\FindNearestZombie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:58:17.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Algorithm\\Attack.cs",
+              "RelativeDocumentMoniker": "GameToonZombie.Data\\Algorithm\\Attack.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Algorithm\\Attack.cs",
+              "RelativeToolTip": "GameToonZombie.Data\\Algorithm\\Attack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T05:27:54.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameToonZombie",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie\\GameToonZombie.csproj",
+              "RelativeDocumentMoniker": "GameToonZombie\\GameToonZombie.csproj",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie\\GameToonZombie.csproj",
+              "RelativeToolTip": "GameToonZombie\\GameToonZombie.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T06:59:39.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostRequest.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Request\\PostRequest.cs",
+              "RelativeDocumentMoniker": "GameToonZombie.Data\\Request\\PostRequest.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Request\\PostRequest.cs",
+              "RelativeToolTip": "GameToonZombie.Data\\Request\\PostRequest.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:19:54.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetRequest.cs",
+              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Request\\GetRequest.cs",
+              "RelativeDocumentMoniker": "GameToonZombie.Data\\Request\\GetRequest.cs",
+              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Data\\Request\\GetRequest.cs",
+              "RelativeToolTip": "GameToonZombie.Data\\Request\\GetRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:17:59.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "LastAttacl.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\LastAttacl.cs",
               "RelativeDocumentMoniker": "GameToonZombie.Model\\Entites\\WorldStsate\\LastAttacl.cs",
@@ -192,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "CommanBuild.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\Command\\CommanBuild.cs",
               "RelativeDocumentMoniker": "GameToonZombie.Model\\Entites\\Command\\CommanBuild.cs",
@@ -204,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "CommandAttack.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\Command\\CommandAttack.cs",
               "RelativeDocumentMoniker": "GameToonZombie.Model\\Entites\\Command\\CommandAttack.cs",
@@ -212,12 +268,11 @@
               "RelativeToolTip": "GameToonZombie.Model\\Entites\\Command\\CommandAttack.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T03:47:04.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T03:47:04.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "CommandTarget.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\Command\\CommandTarget.cs",
               "RelativeDocumentMoniker": "GameToonZombie.Model\\Entites\\Command\\CommandTarget.cs",
@@ -229,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "CommandMoveBase.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\Command\\CommandMoveBase.cs",
               "RelativeDocumentMoniker": "GameToonZombie.Model\\Entites\\Command\\CommandMoveBase.cs",
@@ -241,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "CommandData.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\Command\\CommandData.cs",
               "RelativeDocumentMoniker": "GameToonZombie.Model\\Entites\\Command\\CommandData.cs",
@@ -254,33 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Zombie.cs",
-              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\Zombie.cs",
-              "RelativeDocumentMoniker": "GameToonZombie.Model\\Entites\\WorldStsate\\Zombie.cs",
-              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\Zombie.cs",
-              "RelativeToolTip": "GameToonZombie.Model\\Entites\\WorldStsate\\Zombie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T04:14:13.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GameState.cs",
-              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\GameState.cs",
-              "RelativeDocumentMoniker": "GameToonZombie.Model\\Entites\\WorldStsate\\GameState.cs",
-              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\GameState.cs",
-              "RelativeToolTip": "GameToonZombie.Model\\Entites\\WorldStsate\\GameState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T04:14:25.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "EnemyBlock.cs",
               "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\EnemyBlock.cs",
               "RelativeDocumentMoniker": "GameToonZombie.Model\\Entites\\WorldStsate\\EnemyBlock.cs",
@@ -289,18 +318,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAA6wAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T04:13:43.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\Player.cs",
-              "RelativeDocumentMoniker": "GameToonZombie.Model\\Entites\\WorldStsate\\Player.cs",
-              "ToolTip": "C:\\Users\\thebr\\source\\repos\\GameToonZombie\\GameToonZombie.Model\\Entites\\WorldStsate\\Player.cs",
-              "RelativeToolTip": "GameToonZombie.Model\\Entites\\WorldStsate\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T04:13:58.632Z"
             }
           ]
         }

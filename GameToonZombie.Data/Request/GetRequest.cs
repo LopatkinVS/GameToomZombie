@@ -5,9 +5,9 @@ using Newtonsoft.Json;
 
 public class GetRequest
 {
-    private readonly string url = "https://games-test.datsteam.dev/play/zombidef/command";
-    private readonly string apiKey = "66904631b1f7a66904631b1f7d";
-    private readonly string xAuthToken = "66904631b1f7a66904631b1f7d";
+    private readonly string _url = "https://games-test.datsteam.dev/play/zombidef/units";
+    private readonly string _apiKey = "66904631b1f7a66904631b1f7d";
+    private readonly string _xAuthToken = "66904631b1f7a66904631b1f7d";
 
     public async Task<GameState> GetGameStateAsync()
     {
@@ -15,10 +15,10 @@ public class GetRequest
         {
             try
             {
-                client.DefaultRequestHeaders.Add("ApiKeyAuth", apiKey);
-                client.DefaultRequestHeaders.Add("X-Auth-Token", xAuthToken);
+                client.DefaultRequestHeaders.Add("ApiKeyAuth", _apiKey);
+                client.DefaultRequestHeaders.Add("X-Auth-Token", _xAuthToken);
 
-                HttpResponseMessage response = await client.GetAsync(url);
+                HttpResponseMessage response = await client.GetAsync(_url);
                 response.EnsureSuccessStatusCode();
 
                 string responseBody = await response.Content.ReadAsStringAsync();

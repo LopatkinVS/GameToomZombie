@@ -1,6 +1,7 @@
 ﻿using GameToonZombie.Data.Algorithm;
 using GameToonZombie.Model.Entites.Command;
 using System;
+using System.Net;
 using System.Net.Http.Headers;
 
 class Program
@@ -9,40 +10,59 @@ class Program
     {
         var getRequest = new GetRequest();
         var postRequest = new PostRequest();
-
-        try
+        while (true)
         {
-            var gameState = await getRequest.GetGameStateAsync();
-
-            if (gameState != null)
+            try
             {
-                GameState gameStateInfo = FindNearestZombie.FindNearest(gameState, CountRangeAttack.CountRange(gameState));
-
-                if (gameStateInfo != null)
+                var gameState = await getRequest.GetGameStateAsync();
+                if (gameState != null)
                 {
-                    var commandData = new CommandData
+                    if (gameState.Base != null)
                     {
-                        Attack = Attack.AttackZombie(gameStateInfo)
-                    };
+                        GameState gameStateInfo = FindNearestZombie.FindNearest(gameState, 5);
 
-                    await postRequest.SendPostRequestBuildAndAtackAsync(commandData);
+                        if (gameStateInfo.Zombies != null)
+                        {
+                            var commandData = new CommandData
+                            {
+                                Attack = Attack.AttackZombie(gameStateInfo)
+                            };
+
+                            if (commandData != null)
+                                await postRequest.SendPostRequestBuildAndAtackAsync(commandData);
+
+                        }
+
+                        if (gameState.Turn == 1)
+                        {
+                            List<CommandBuild> commandBuilds = BuildInThirstMove.BuildSquare(gameState);
+                            var commandData = new CommandData();
+                            commandData.Build = commandBuilds;
+                            await postRequest.SendPostRequestBuildAndAtackAsync(commandData);
+                        }
+
+                        if (gameState.Player.Gold >= 10)
+                        {
+                            List<CommandBuild> commandBuilds = BuildInThirstMove.BuildSquare(gameState);
+                            var commandData = new CommandData();
+                            commandData.Build = commandBuilds;
+                            await postRequest.SendPostRequestBuildAndAtackAsync(commandData);
+                        }
+
+                        Console.WriteLine($"Состояние игры: {gameState}");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Не удалось получить состояние игры.");
+                    }
                 }
-
-                if(gameState.Turn == 1)
-                {
-                    // алгоритм постройки стен
-                }
-
-                Console.WriteLine($"Состояние игры: {gameState}");
             }
-            else
+            catch (Exception ex)
             {
-                Console.WriteLine("Не удалось получить состояние игры.");
+                Console.WriteLine($"Произошла ошибка при получении состояния игры: {ex.Message}");
             }
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine($"Произошла ошибка при получении состояния игры: {ex.Message}");
+
+            Thread.Sleep(2000);
         }
 
         try

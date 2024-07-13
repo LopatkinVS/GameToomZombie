@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameToonZombie.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84341d84a20ce620f085843910269279123abd1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91ac26ea7a16ef75102353ab1d45b0c42b15c805")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameToonZombie.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameToonZombie.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
