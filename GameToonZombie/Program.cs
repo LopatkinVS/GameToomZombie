@@ -1,29 +1,46 @@
-using GameToonZombie.Extensions;
+﻿using GameToonZombie.Model.Entites.Command;
+using System;
+using System.Net.Http.Headers;
 
-var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
-
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-builder.Services.AddBusinessServices(builder.Configuration);
-
-var app = builder.Build();
-
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+class Program
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    static async Task Main(string[] args)
+    {
+        var getRequest = new GetRequest();
+
+        try
+        {
+            var gameState = await getRequest.GetGameStateAsync();
+
+            if (gameState != null)
+            {
+                Console.WriteLine($"Состояние игры: {gameState}");
+            }
+            else
+            {
+                Console.WriteLine("Не удалось получить состояние игры.");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Произошла ошибка при получении состояния игры: {ex.Message}");
+        }
+
+
+        var postRequest = new PostRequest();
+
+        try
+        {
+            var commandData = new CommandData
+            {
+
+            };
+
+            await postRequest.SendPostRequestBuildAndAtackAsync(commandData);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Произошла ошибка при отправке POST-запроса: {ex.Message}");
+        }
+    }
 }
-
-app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
-app.MapControllers();
-
-app.Run();

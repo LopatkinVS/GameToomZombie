@@ -1,0 +1,12 @@
+C:\Users\thebr\source\repos\GameToonZombie\GameToonZombie.Model\bin\Debug\net6.0\GameToonZombie.Model.deps.json
+C:\Users\thebr\source\repos\GameToonZombie\GameToonZombie.Model\bin\Debug\net6.0\GameToonZombie.Model.dll
+C:\Users\thebr\source\repos\GameToonZombie\GameToonZombie.Model\bin\Debug\net6.0\GameToonZombie.Model.pdb
+C:\Users\thebr\source\repos\GameToonZombie\GameToonZombie.Model\obj\Debug\net6.0\GameToonZombie.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thebr\source\repos\GameToonZombie\GameToonZombie.Model\obj\Debug\net6.0\GameToonZombie.Model.AssemblyInfoInputs.cache
+C:\Users\thebr\source\repos\GameToonZombie\GameToonZombie.Model\obj\Debug\net6.0\GameToonZombie.Model.AssemblyInfo.cs
+C:\Users\thebr\source\repos\GameToonZombie\GameToonZombie.Model\obj\Debug\net6.0\GameToonZombie.Model.csproj.CoreCompileInputs.cache
+C:\Users\thebr\source\repos\GameToonZombie\GameToonZombie.Model\obj\Debug\net6.0\GameToonZombie.Model.sourcelink.json
+C:\Users\thebr\source\repos\GameToonZombie\GameToonZombie.Model\obj\Debug\net6.0\GameToonZombie.Model.dll
+C:\Users\thebr\source\repos\GameToonZombie\GameToonZombie.Model\obj\Debug\net6.0\refint\GameToonZombie.Model.dll
+C:\Users\thebr\source\repos\GameToonZombie\GameToonZombie.Model\obj\Debug\net6.0\GameToonZombie.Model.pdb
+C:\Users\thebr\source\repos\GameToonZombie\GameToonZombie.Model\obj\Debug\net6.0\ref\GameToonZombie.Model.dll
